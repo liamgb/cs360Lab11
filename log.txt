@@ -1,0 +1,14 @@
+
+> cluster@0.0.0 start /var/clusterServer/cluster
+> node ./bin/www
+
+[0mGET / [36m304 [0m14.259 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m2.300 ms - -[0m
+[0mGET / [31m500 [0m5.013 ms - 1663[0m
+[0mGET / [31m500 [0m1.904 ms - 1663[0m
+[0mGET / [32m200 [0m1.584 ms - 212[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.674 ms - -[0m
+[0mGET / [31m500 [0m1.834 ms - 1663[0m
+[0mGET / [31m500 [0m2.336 ms - 1663[0m
+[0mGET / [31m500 [0m1.578 ms - 1663[0m
+[0mGET / [31m500 [0m1.501 ms - 1663[0m
